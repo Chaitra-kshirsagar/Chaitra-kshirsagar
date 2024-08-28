@@ -1,19 +1,18 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Chaitra!
 
 ### 🚀 About Me
 I'm a passionate **Software Engineering Student** with a keen interest in **Software Development, Virtual Reality, and Front-end Development**. I am currently working towards expanding my skills in web technologies and building cool projects that make a real impact.
 
 - 🌱 I’m currently learning **React.js** and **Full Stack Development**
 - 💬 Ask me about **APIs**, **Virtual Reality**, and **Web Development**
-- 🔭 I’m currently working on [insert project name or description]
-- 🥅 2024 Goals: Contribute more to **Open Source Projects** and build a **VR application**
+- 🥅 2024 Goals: Contribute more to **Open Source Projects** through **Hacktoberfest**
 - 🧑‍🏫 Passionate about teaching **science and computer skills** to underprivileged students through [Bhoomi NGO](https://bhoomingo.org)
 
 ### 🏆 Achievements
 - 👩‍💻 Completed **Postman API Fundamentals Student Expert Certification**
 
 ### 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Chaitra-kshirsagar](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ### 💻 Technologies & Tools
 - Frontend: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
