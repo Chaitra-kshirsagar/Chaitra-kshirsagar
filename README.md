@@ -5,14 +5,12 @@ I'm a passionate **Software Engineering Student** with a keen interest in **Soft
 
 - 🌱 I’m currently learning **React.js** and **Full Stack Development**
 - 💬 Ask me about **APIs**, **Virtual Reality**, and **Web Development**
-- 🥅 2024 Goals: Contribute more to **Open Source Projects** through **Hacktoberfest**
+- 🥅 2024 Goals: Contribute more to **Open Source Projects** starting with **Hacktoberfest**
 - 🧑‍🏫 Passionate about teaching **science and computer skills** to underprivileged students through [Bhoomi NGO](https://bhoomingo.org)
 
 ### 🏆 Achievements
 - 👩‍💻 Completed **Postman API Fundamentals Student Expert Certification**
 
-### 📊 GitHub Stats
-![Chaitra-kshirsagar](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ### 💻 Technologies & Tools
 - Frontend: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
