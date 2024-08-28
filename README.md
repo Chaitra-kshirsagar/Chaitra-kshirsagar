@@ -18,7 +18,7 @@ I'm a passionate **Software Engineering Student** with a keen interest in **Soft
 - Tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
   
 ### 📫 How to reach me:
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/chaitra-kshirsagar)
+- LinkedIn: [Chaitra](https://linkedin.com/in/chaitra-kshirsagar)
 - Email: chaitra051103@gmail.com
 
 <!--
