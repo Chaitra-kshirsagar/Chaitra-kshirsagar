@@ -12,10 +12,24 @@ I'm a passionate **Software Engineering Student** with a keen interest in **Soft
 - 👩‍💻 Completed **Postman API Fundamentals Student Expert Certification**
 
 
-### 💻 Technologies & Tools
-- Frontend: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-- Backend: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-- Tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<details>
+  <summary>💻 Technologies & Tools</summary>
+  
+  **Programming Languages**: ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  
+  **Frontend Development**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  
+  **Backend Development & REST APIs**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat&logo=postman&logoColor=white)
+  
+  **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  
+  **Computer Science Concepts**: ![DSA](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-4B0082?style=flat&logo=algorithms&logoColor=white)
+  
+  **Artificial Intelligence & Machine Learning**: ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FF6F00?style=flat&logo=opencv&logoColor=white) ![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-008080?style=flat&logo=ai&logoColor=white)
+
+</details>
+
+
 
  ## Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
