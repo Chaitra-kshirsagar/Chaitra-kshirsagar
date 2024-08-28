@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning API's and AWS
+- 🤔 I’m looking for help with opensource contributions at Hacktoberfest!
 <!--
 **Chaitra-kshirsagar/Chaitra-kshirsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
