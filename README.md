@@ -32,7 +32,7 @@ I'm a passionate **Software Engineering Student** with a keen interest in **Soft
 
 
 
- ## Badges
+ ## Certification Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <img src="https://github.com/user-attachments/assets/43afd559-3719-4b42-b974-1dbddedcc21e" width="100px" height="100px" />
 </div> 
