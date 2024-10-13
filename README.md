@@ -10,6 +10,7 @@ I'm a passionate **Software Engineering Student** with a keen interest in **Soft
 
 ### 🏆 Achievements
 - 👩‍💻 Completed **Postman API Fundamentals Student Expert Certification**
+- Completed **Hacktoberfest-2024** with 4+ accepted PR's
 
 
 <details>
