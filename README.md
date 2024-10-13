@@ -37,6 +37,8 @@ I'm a passionate **Software Engineering Student** with a keen interest in **Soft
   </a>
 </div> 
 
+[![An image of @chaitrakshirsagar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chaitrakshirsagar)](https://holopin.io/@chaitrakshirsagar)
+
 ### 📫 How to reach me:
 - LinkedIn: [Chaitra](https://linkedin.com/in/chaitra-kshirsagar)
 - Email: chaitra051103@gmail.com
