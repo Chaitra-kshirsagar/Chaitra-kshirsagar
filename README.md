@@ -24,7 +24,7 @@ I'm a passionate **Software Engineering Student** with a keen interest in **Soft
   
   **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   
-  **Computer Science Concepts**: ![DSA](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-4B0082?style=flat&logo=algorithms&logoColor=white)
+  **Computer Science Concepts**: ![DSA](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-4B0082?style=flat&logo=algorithms&logoColor=white) ![OOPS](https://img.shields.io/badge/-Object%20Oriented%20Programming-00008B?style=flat&logo=java&logoColor=white) ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-8A2BE2?style=flat&logo=cisco&logoColor=white) ![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-228B22?style=flat&logo=linux&logoColor=white)
   
   **Artificial Intelligence & Machine Learning**: ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FF6F00?style=flat&logo=opencv&logoColor=white) ![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-008080?style=flat&logo=ai&logoColor=white)
 
