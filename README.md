@@ -5,7 +5,7 @@ I'm a passionate **Software Engineering Student** with a keen interest in **Soft
 
 - 🌱 I’m currently learning **React.js** and **Full Stack Development**
 - 💬 Ask me about **APIs**, **Virtual Reality**, and **Web Development**
-- 🥅 2024 Goals: Contribute more to **Open Source Projects** starting with **Hacktoberfest**
+- 🥅 2025 Goals: Contribute more to **Open Source Projects** starting with **GSSoC**
 - 🧑‍🏫 Passionate about teaching **science and computer skills** to underprivileged students through [Bhoomi NGO](https://bhoomingo.org)
 
 ### 🏆 Achievements
