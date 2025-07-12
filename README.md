@@ -8,48 +8,52 @@ I'm a passionate **Product Management Intern** with a background in computer sci
 - 🥅 2025 Goals: Build impactful side projects, document my journey through blogs, and contribute to open-source product tools
 - 🧑‍🏫 Passionate about making tech education accessible — I teach science and computer skills through [Bhoomi NGO](https://www.bhumi.ngo/)
 
-### 🏆 Achievements
-- 👩‍💻 Completed **Postman API Fundamentals Student Expert Certification**
-- Completed **Hacktoberfest-2024** with 4+ accepted PR's
+### 🚀 Product & Project Milestones
+- Led product ideation and research for Desi-Connect, a rural women empowerment solution presented at IIT Bombay's Tech Fest
 
+<br>
 
 <details>
-  <summary>💻 Technologies & Tools</summary>
-  
-  **Programming Languages**: ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  
-  **Frontend Development**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-  
-**Backend Development & REST APIs**: ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat&logo=postman&logoColor=white)
-  
-  **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  
-  **Computer Science Concepts**: ![DSA](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-4B0082?style=flat&logo=algorithms&logoColor=white) ![OOPS](https://img.shields.io/badge/-Object%20Oriented%20Programming-00008B?style=flat&logo=java&logoColor=white) ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-8A2BE2?style=flat&logo=cisco&logoColor=white) ![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-228B22?style=flat&logo=linux&logoColor=white)
-  
-  **Artificial Intelligence & Machine Learning**: ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FF6F00?style=flat&logo=opencv&logoColor=white) ![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-008080?style=flat&logo=ai&logoColor=white)
+  <summary><strong>🛠 My Product & Tech Toolkit</strong></summary>
 
+━━━━━━━━━━━━━━━━
+
+**🧠 Product Skills**  
+Product roadmapping · PDLC · Prioritization · Stakeholder collaboration · Documentation  
+Figma · Notion · Miro · Sentiment & competitive analysis · Root cause & data analysis
+
+
+**📊 Data & Programming**  
+Python · SQL · Google Analytics · Mixpanel
+
+
+**🤖 Tech Interests**  
+AI/ML · NLP · Computer Vision
+
+━━━━━━━━━━━━━━━━
 </details>
 
+<br>
 
-
- ## Certification Badges
+## 🔥 GitHub Open Source Highlights
+ ### Certification Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <img src="https://github.com/user-attachments/assets/43afd559-3719-4b42-b974-1dbddedcc21e" width="100px" height="100px" />
 </div> 
 
 
-## Hacktoberfest 2024!
+### Hacktoberfest 2024!
 [![An image of @chaitrakshirsagar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chaitrakshirsagar)](https://holopin.io/@chaitrakshirsagar)
 
 
 
-### Let’s Team Up! 🤝
+## Let’s Team Up! 🤝
 I’m all about collab—whether it’s brainstorming PM strategies or building something. Hit me up:
 - LinkedIn: [Chaitra](https://linkedin.com/in/chaitra-kshirsagar)
 - Email: chaitra051103@gmail.com
-- Stories on [Medium](https://medium.com/@chaitra.workspace.pm)
+- Sharing my stories on [Medium](https://medium.com/@chaitra.workspace.pm)
 
-## Fun Fact 🌱
+### Fun Fact 🌱
 Fueled by coffee and user feedback, I thrive on solving problems that matter. Let’s create something amazing together!
 
 <!--
