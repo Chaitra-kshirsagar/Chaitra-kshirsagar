@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Chaitra!
 
 ### 🚀 About Me
-I'm a passionate **Software Engineering Student** with a keen interest in **Software Development, Virtual Reality, and Front-end Development**. I am currently working towards expanding my skills in web technologies and building cool projects that make a real impact.
+I'm a passionate **Product Management Intern** with a background in computer science and a deep interest in AI, agentic systems, and data-driven product strategy. I thrive on transforming ideas into structured, impactful solutions through clear roadmaps, user empathy, and cross-functional collaboration. My focus is on building intuitive, scalable products that solve real-world problems.
 
-- 🌱 I’m currently learning **React.js** and **Full Stack Development**
-- 💬 Ask me about **APIs**, **Virtual Reality**, and **Web Development**
-- 🥅 2025 Goals: Contribute more to **Open Source Projects** starting with **GSSoC**
-- 🧑‍🏫 Passionate about teaching **science and computer skills** to underprivileged students through [Bhoomi NGO](https://bhoomingo.org)
+- 🌱 I’m currently exploring AI in product workflows, agentic AI, and data analytics
+- 💬 Ask me about product discovery, writing PRDs, and collaborating with cross-functional teams
+- 🥅 2025 Goals: Build impactful side projects, document my journey through blogs, and contribute to open-source product tools
+- 🧑‍🏫 Passionate about making tech education accessible — I teach science and computer skills through [Bhoomi NGO](https://www.bhumi.ngo/)
 
 ### 🏆 Achievements
 - 👩‍💻 Completed **Postman API Fundamentals Student Expert Certification**
@@ -47,6 +47,7 @@ I'm a passionate **Software Engineering Student** with a keen interest in **Soft
 I’m all about collab—whether it’s brainstorming PM strategies or building something. Hit me up:
 - LinkedIn: [Chaitra](https://linkedin.com/in/chaitra-kshirsagar)
 - Email: chaitra051103@gmail.com
+- Stories on [Medium](https://medium.com/@chaitra.workspace.pm)
 
 ## Fun Fact 🌱
 Fueled by coffee and user feedback, I thrive on solving problems that matter. Let’s create something amazing together!
